@@ -1,0 +1,30 @@
+-- The post office has today 2 clerk(s) on duty.
+Alicia arrives at post office.
+Alicia gets service.
+Bryan arrives at post office.
+Bryan gets service.
+Alicia leaves the post office.
+Carolina arrives at post office.
+Carolina gets service.
+Bryan leaves the post office.
+Dan arrives at post office.
+Dan gets service.
+Carolina leaves the post office.
+Emily arrives at post office.
+Emily gets service.
+Dan leaves the post office.
+Frances arrives at post office.
+Frances gets service.
+Emily leaves the post office.
+George arrives at post office.
+George gets service.
+Frances leaves the post office.
+Hannah arrives at post office.
+Hannah gets service.
+George leaves the post office.
+Hannah leaves the post office.
+
+SUMMARY REPORT
+8 patron(s) went to the post office.
+0 patron(s) had to wait before getting service.
+8 patron(s) did not have to to wait.

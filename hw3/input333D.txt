@@ -1,0 +1,5 @@
+Alice 0  4
+Bob 1 5
+Carol 1 5
+Dean  1 4
+Emily 2 3

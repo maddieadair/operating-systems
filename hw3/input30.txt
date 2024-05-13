@@ -1,0 +1,4 @@
+Alice  0  10
+Bob  3  5
+Carolina  4  8
+Dean  2  7

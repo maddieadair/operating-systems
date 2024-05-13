@@ -1,0 +1,18 @@
+-- The post office has today 2 clerk(s) on duty.
+Alice arrives at post office.
+Alice gets service.
+Bob arrives at post office.
+Bob gets service.
+Carolina arrives at post office.
+Bob leaves the post office.
+Carolina gets service.
+Dean arrives at post office.
+Alice leaves the post office.
+Dean gets service.
+Carolina leaves the post office.
+Dean leaves the post office.
+
+SUMMARY REPORT
+4 patron(s) went to the post office.
+2 patron(s) had to wait before getting service.
+2 patron(s) did not have to to wait.

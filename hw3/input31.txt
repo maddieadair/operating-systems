@@ -1,0 +1,8 @@
+Alicia 0 2
+Bryan 1 3
+Carolina  2 2
+Dan 1 3
+Emily 2 2
+Frances 1 2
+George 1 3
+Hannah 2 3
